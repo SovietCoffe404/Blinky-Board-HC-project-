@@ -1,7 +1,0 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-LED,To make it blinky!,10,1.15,https://www.steren.com.mx/led-de-5-mm-color-ambar-claro.html,Steren
-Resistors,For not blowing up our LED's,2,0.12,https://www.steren.com.mx/resistencia-de-carbon-de-1-watt-al-5-de-tolerancia-de-10-kohms.html,Steren
-Capacitor,To make it all clean,2,0.46,https://www.steren.com.mx/capacitor-electrolitico-radial-de-1-uf-micro-faradio-a-63-volts.html,Steren
-Timer 555,To make some pulse,1,0.4,https://www.steren.com.mx/circuito-integrado-lineal-temporizador.html,Steren
-Potentiometer,To regulate how blinky it is,1,0.52,https://www.steren.com.mx/potenciometro-miniatura-sin-switch-de-10-kohms.html,Steren
-CD4017,To control the LED's,1,1.09,https://www.steren.com.mx/circuito-integrado-ci-contador-de-decada.html,Steren
